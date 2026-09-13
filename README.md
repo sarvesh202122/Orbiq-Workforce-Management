@@ -59,4 +59,4 @@ npm start
 | POST | `/api/leaves` | Apply for leave (blocked if overlapping) |
 | POST | `/api/leaves/<id>/decision` | Approve/reject (transactional stored proc) |
 
-ia `mysql2` — already used throughout `server.js`)
+
