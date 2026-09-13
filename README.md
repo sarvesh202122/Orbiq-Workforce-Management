@@ -1,7 +1,6 @@
-# ERMS — Employee & Project Management System
+# Orbiq-Workforce-Management
 
-A full-stack DBMS project: normalized MySQL schema + Flask REST API + a live dashboard.
-Domain (HR/Project tracking) mirrors SAP's own ERP modules, so it's an easy story to tell in interviews.
+A full-stack Employee & Project Management System built with Node.js, Express.js, MySQL, HTML, CSS, and JavaScript, featuring role-based access, employee management, project tracking, leave management, and analytics dashboards.
 
 ## Tech Stack
 - **Database:** MySQL 8
